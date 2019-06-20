@@ -1774,7 +1774,6 @@ ul {
   padding-top: 50px;
   color: #FFF;
   background-color: #28292b;
-  background-image: url('../images/logo-footer-background.png');
   background-position: right center;
   background-repeat: no-repeat;
 }
@@ -3088,14 +3087,15 @@ ul {
     width: 100%;
     float: none;
   }
+  
   .footer-column {
     text-align: center;
   }
   .footer-column .icon-opening-container {
-    display: inline-block;
+	display: inline-block;
   }
   .footer-column .icon-opening-content {
-    float: left;
+	float: left;
   }
   .icon-opening-wrapper.big-version .icon-opening {
     float: none;

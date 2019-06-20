@@ -6,8 +6,8 @@
 **/
 
 /* Make the changes here ***********************/
-$recepient = "email@email.com";
-$subject = "Message from Bakery";
+$recepient = "padaria.abc@hotmail.com";
+$subject = "Email do site www.padariabc.com.br";
 $is_sender_required = true;		//if this is set to "true" email will be not sent if senders email is empty, set it to "false" if you want to send email anyway
 $is_subject_required = false;
 $is_message_required = true;
